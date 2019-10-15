@@ -38,7 +38,10 @@ a.tooltip:hover      {text-decoration:none;}
 a.tooltip span       {display:none; margin: 0 0 0 10px; padding:10px 10px; }
 a.tooltip:hover span {display:inline; position:absolute; border: 3px solid #3B73AC; background:#FFEFF5; color:#3B73AC!important;}
 
-
+body{
+   background:#4972B5;
+   color: #990000;
+}
 .auto-style3 {
 	color: #FF0000;
 	font-size: small;
